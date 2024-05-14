@@ -1,0 +1,2 @@
+# devops-b
+devops practicals
